@@ -222,6 +222,18 @@ bash kafka/create_topic.sh
     <tr><td style="padding: 8px; border: 1px solid #ddd;">Location</td><td style="padding: 8px; border: 1px solid #ddd;">Yemen</td></tr>
   </tbody>
 </table>
+## ⚠️ ملاحظة حول الملفات الكبيرة
+
+نظراً لقيود GitHub (100 MB)، الملفات التالية **غير مضمّنة** في المستودع:
+
+| الملف | الحجم | ملاحظة |
+| :--- | :---: | :--- |
+| `unsw_nb15_backup.sql` | 575 MB | متاح عند الطلب |
+| `unsw_dashboard.pbix` | 198 MB | متاح عند الطلب |
+| `*.parquet` | 166 MB | يُولّد من الكود |
+| `data/raw/*` | 642 MB | يُحمّل من المصدر |
+
+📸 **للاطلاع على النتائج:** راجع `screenshots/` (تقرير + داشبورد).
 
 ---
 
