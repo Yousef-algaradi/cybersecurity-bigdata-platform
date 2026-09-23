@@ -1,0 +1,30 @@
+{
+  "name": "UNSW Dark Academic",
+  "dataColors": [
+    "#2ECC71",
+    "#E74C3C",
+    "#3498DB",
+    "#F39C12",
+    "#9B59B6",
+    "#1ABC9C",
+    "#E67E22",
+    "#ECF0F1",
+    "#16A085",
+    "#C0392B"
+  ],
+  "background": "#1A2F2A",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#2ECC71",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#1F3F3A"}}, "transparency": 0}],
+        "border": [{"show": true, "color": {"solid": {"color": "#2ECC71"}}, "radius": 8}],
+        "title": [{"fontSize": 14, "fontFamily": "Segoe UI Semibold", "color": {"solid": {"color": "#FFFFFF"}}, "alignment": "left"}],
+        "categoryAxis": [{"labelColor": {"solid": {"color": "#FFFFFF"}}}],
+        "valueAxis": [{"labelColor": {"solid": {"color": "#FFFFFF"}}}],
+        "legend": [{"labelColor": {"solid": {"color": "#FFFFFF"}}}]
+      }
+    }
+  }
+}
